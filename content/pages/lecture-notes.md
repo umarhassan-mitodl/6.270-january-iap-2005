@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Lectures and workshops are the primary way that the material is taught.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

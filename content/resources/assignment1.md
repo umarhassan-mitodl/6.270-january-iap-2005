@@ -5,6 +5,8 @@ description: Instructions for constructing a cube of at least 10 FLUs on a side 
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/ce5a472871ae9cd73d26d8c322229e2e_assignment1.pdf
 file_size: 298693
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -41,11 +41,11 @@ Gyro Code ({{% resource_link "58733813-e743-7bfe-9f32-e75788988d38" "C" %}}) (Co
 
 ## Datasheets
 
-{{% resource_link "a31d6ad0-e021-46c5-9228-0642a3c09fec" "zvn4206a FET" %}}
+[zvn4206a FET](https://www.diodes.com/part/view/ZVN4206A)
 
-HandyBoard ({{% resource_link "2c5b137c-fa84-42cf-a441-44fd7be40408" "PDF" %}})
+HandyBoard ([PDF](http://www-robotics.cs.umass.edu/~grupen/503/HandyBoard/HandyBoardManual.pdf))
 
-Sharp Distance Sensor 2Y0A02 ({{% resource_link "b3d90a54-c2d1-401d-b6be-689aebeacf96" "PDF" %}})
+Sharp Distance Sensor 2Y0A02 ([PDF](http://sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0a02_e.pdf))
 
 ## Miscellaneous
 

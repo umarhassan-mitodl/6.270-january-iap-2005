@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains a contest video and descriptions of the contests.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Videos
 ocw_type: CourseSection
@@ -13,7 +15,7 @@ video_metadata:
 Session 19 - Contest Video
 --------------------------
 
-({{% resource_link "d2defe2a-0884-4233-8373-c2b32aee2879" "MP4 - 934.9MB" %}})
+([MP4 - 934.9MB](http://www.archive.org/download/MIT6.270IAP05/ocw-6.270-comp-26jan2005-220k_512kb.mp4))
 
 Topics
 ------

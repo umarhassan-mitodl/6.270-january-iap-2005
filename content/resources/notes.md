@@ -6,6 +6,8 @@ description: 'Handout covering the following topics: introduction, attack of the
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/49a25d3e342679462df656a39c26b76e_notes.pdf
 file_size: 605083
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

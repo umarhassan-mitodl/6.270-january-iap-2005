@@ -6,6 +6,8 @@ description: Instructions for analyzing all aspects of the contest and the rules
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/66354f40abf9be8c031f18e4e135d361_assignment4.pdf
 file_size: 62130
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
