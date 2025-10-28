@@ -5,8 +5,6 @@ description: 'Workshop notes covering the following topics: LEGO measurements, L
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/4aa718211a3d9142118d5dd0f138e54b_1_basiclego.pdf
 file_size: 298692
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

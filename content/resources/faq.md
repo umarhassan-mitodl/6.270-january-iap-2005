@@ -5,8 +5,6 @@ description: Solutions to some common problems such as how to use start machine,
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/3c4862170dc3e86a5dedcbfe0599d428_faq.pdf
 file_size: 30845
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

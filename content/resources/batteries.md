@@ -4,8 +4,6 @@ description: Laboratory apparatus information.
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/2e1e6985745e8ba9c8f2e92078f5e9f3_batteries.pdf
 file_size: 71798
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

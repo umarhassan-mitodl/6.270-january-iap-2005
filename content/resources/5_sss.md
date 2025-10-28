@@ -5,8 +5,6 @@ description: 'Workshop notes covering the following topics: Servos, Advanced?Sen
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/28e4da973faa6d894e41ccc9d60be617_5_sss.pdf
 file_size: 77287
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

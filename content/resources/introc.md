@@ -4,8 +4,6 @@ description: Computer programming tutorial.
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/2b90bb51a00162c3b07fa8a21e52b876_introc.pdf
 file_size: 112353
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

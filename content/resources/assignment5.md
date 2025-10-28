@@ -4,8 +4,6 @@ description: Instructions for building a preliminary version of the contest robo
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/c29050f7b1b54530bd64c9f8ad6b91d4_assignment5.pdf
 file_size: 31864
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

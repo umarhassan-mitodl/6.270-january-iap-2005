@@ -4,8 +4,6 @@ description: The calendar below provides information on the lectures and worksho
   for this course. Each workshop is offered twice (A and B) to accommodate the number
   of teams in 6.270. The material covered in each of the two sessions is identical.
   Teams may sign up in advance for their preferred hour.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

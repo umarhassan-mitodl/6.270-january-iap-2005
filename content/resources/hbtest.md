@@ -4,8 +4,6 @@ description: Supporting code file.
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/8f9b70b89812bf8f31cb806c05952c61_hbtest.c
 file_size: 1313
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

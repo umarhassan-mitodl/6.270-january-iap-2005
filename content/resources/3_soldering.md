@@ -6,8 +6,6 @@ description: 'Workshop notes covering the following topics: solder, purchasing a
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/d294aa977b3595dd83056c14dfc0da8f_3_soldering.pdf
 file_size: 65003
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

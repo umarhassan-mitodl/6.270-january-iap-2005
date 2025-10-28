@@ -4,8 +4,6 @@ description: Table coordinates diagram.
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/cc6f645d55d8c020579386d20c1b573d_table_coordinate.jpg
 file_size: 74984
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

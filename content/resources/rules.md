@@ -4,8 +4,6 @@ description: Course competition rules.
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/4a22c95ac765743942370d9a07fa2a29_rules.pdf
 file_size: 27834
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

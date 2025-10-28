@@ -6,8 +6,6 @@ description: 'Lecture presentation covering the following topics: assignment 2: 
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/09c931ae703e564cd4a5f3f559d49987_lecture3_slides.pdf
 file_size: 1028101
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

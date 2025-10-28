@@ -5,8 +5,6 @@ description: 'Workshop notes covering the following topics: comparing pieces, ch
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/f78cd5c74d7f0f3ed08b6593aa5dcdf1_6_advancedlegos.pdf
 file_size: 1675371
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
