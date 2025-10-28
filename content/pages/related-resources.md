@@ -11,8 +11,8 @@ video_metadata:
 ---
 ## Useful Links
 
-[Interactive C](http://www.kipr.org/products/interactive-c) - A newer 'improved' Interactive C with a newer 'improved' interface for a handyboard that is also a little different. This version of IC has **not** yet been tested for use with the competition. Use at your own risk.
+{{% resource_link "c9bb3186-3804-4ac1-9f9d-e8a87fddc168" "Interactive C" %}} - A newer 'improved' Interactive C with a newer 'improved' interface for a handyboard that is also a little different. This version of IC has **not** yet been tested for use with the competition. Use at your own risk.
 
-[Constructopedia](https://www.media.mit.edu/projects/constructopedia/overview/) - A LEGO® building encyclopedia.
+{{% resource_link "7b7bc1e3-923d-4e2d-95d2-2bdaa17dec0a" "Constructopedia" %}} - A LEGO® building encyclopedia.
 
-[How LEGOs® Are Made](https://www.lego.com/en-us/service/help/bricks-building/brick-facts/how-lego-bricks-are-made-408100000007834) - Want to take a break? Find out how LEGOs® are made.
+{{% resource_link "1d9c88c0-447f-4198-b745-7913a30f918d" "How LEGOs® Are Made" %}} - Want to take a break? Find out how LEGOs® are made.
